@@ -20,7 +20,7 @@
           </TablixColumns>
           <TablixRows>
             <TablixRow>
-              <Height>1.14239cm</Height>
+              <Height>0.66614cm</Height>
               <TablixCells>
                 <TablixCell>
                   <CellContents>
@@ -169,7 +169,7 @@
               </TablixCells>
             </TablixRow>
             <TablixRow>
-              <Height>1.88323cm</Height>
+              <Height>0.85136cm</Height>
               <TablixCells>
                 <TablixCell>
                   <CellContents>
@@ -324,7 +324,7 @@
         <DataSetName>dsRegistros</DataSetName>
         <Top>0.76412cm</Top>
         <Left>0.63182cm</Left>
-        <Height>3.02562cm</Height>
+        <Height>1.5175cm</Height>
         <Width>15.02708cm</Width>
         <Style>
           <Border>
@@ -333,13 +333,13 @@
         </Style>
       </Tablix>
     </ReportItems>
-    <Height>2in</Height>
+    <Height>1.36458in</Height>
     <Style />
   </Body>
   <Width>6.5in</Width>
   <Page>
     <PageHeader>
-      <Height>3.36021cm</Height>
+      <Height>2.95162cm</Height>
       <PrintOnFirstPage>true</PrintOnFirstPage>
       <PrintOnLastPage>true</PrintOnLastPage>
       <ReportItems>
@@ -394,7 +394,7 @@
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>ExecutionTime</rd:DefaultName>
-          <Top>2.35162cm</Top>
+          <Top>2.07821cm</Top>
           <Left>12.73557cm</Left>
           <Height>0.6cm</Height>
           <Width>2.92333cm</Width>
